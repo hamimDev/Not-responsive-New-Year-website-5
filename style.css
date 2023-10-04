@@ -1,0 +1,256 @@
+
+*{
+    margin: 0;
+    font-family: 'Heebo', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Hero Banner */
+
+
+.ba-img{
+
+    background-image: url(images/banner/banner3.png);
+    height: 748px;
+    background-position: center;
+    text-align: left;
+}
+.banner{
+    text-align: right;
+    padding-top: 250px;
+   padding-right: 180px;
+}
+.big-letter{
+    font-size: 70px;
+    font-weight: 700;
+    color: whitesmoke;
+    margin-bottom: 25px;
+}
+.small-letter{
+    font-size: 15px;
+    font-weight: 100;
+    color: whitesmoke;
+    margin-bottom: 25px;
+}
+.contact{
+
+    font-size: 20px;
+    font-weight: 600;
+    background-color: whitesmoke;
+    margin-left: 1190px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+/* Banner-2 */
+
+.banner-2{
+    height: 800px;
+    background-color: white;
+}
+.img-text{
+display: flex;
+padding-top: 70px;
+padding-left: 150px;
+}
+.image{
+background-color: whitesmoke;
+border-radius: 60%;
+padding: 100px 100px;
+}
+.text{
+ margin-left: 100px; 
+ margin-top: 250px;  
+}
+.my-b-le{
+font-size: 40px;
+font-weight: 600;
+padding-bottom: 20px;
+}
+.sm-le{
+font-size: 15px;
+font-weight: 200;
+padding-bottom: 20px;
+}
+.ul-sm{
+font-size: 15px;
+font-weight: 200;
+}
+ul{
+
+}
+li{
+    padding-bottom: 20px;
+    list-style-type: none;
+}
+
+/* body start */
+
+.Plans{
+    height: 400px;
+    background-color: white;
+    text-align: center;
+}
+
+.all-plans{
+    padding-top: 100px;
+
+}
+
+.my-pl{
+font-size: 40px;
+font-weight: 900;
+padding-bottom: 80px;
+}
+
+.ic-te{
+display: flex;
+margin-left: 310px;
+}
+
+.boxes{
+margin-right: 50px;
+}
+
+.img{
+  padding-bottom: 20px;  
+}
+
+h3{
+padding-bottom: 15px;
+font-size: 25px;
+font-weight: 900;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 100px;
+    color: gray;
+}
+
+/* Awlays-bg-img-call*/
+
+.awlays{
+height: 330px;
+padding-top: 100px;
+background-color: white;
+margin-bottom: 180px;
+}
+
+.a-call{
+    background-image: url(images/gradient1.png), url(images/watch.png);
+    padding: 74px 120px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 20px;
+}
+
+.keep{
+font-size: 29px;
+font-weight: 900;
+color: whitesmoke;
+padding-bottom: 15px;
+}
+
+.call{
+    font-size: 20px;
+    font-weight: 600;
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    margin-right: 725px;
+}
+
+/* Future-footer */
+
+.end-foo{
+    /* height: 580px; */
+    background-color: white;
+    padding-top: 100px;
+    background-color: darkslategray;
+}
+
+.fu-su{
+    display: flex;
+    margin-left: 200px;
+}
+
+
+.text-fu{
+    padding-bottom: 100px;
+
+}
+.b-fu{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: whitesmoke;
+}
+.sm-th{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    color: whitesmoke;
+}
+.eml{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    color: whitesmoke;
+}
+.pho{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 35px;
+    color: whitesmoke;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 15px;
+
+}
+
+.sub-all{
+    margin-left: 400px;
+}
+.sub-b-l{
+    font-size: 25px;
+    font-weight: 700;
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+input{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 180px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    background-color: darkslategray;
+    border: solid 2px white;
+}
+
+.subscribe-button{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 800;
+    color: whitesmoke;
+    background-color: blue;
+}
